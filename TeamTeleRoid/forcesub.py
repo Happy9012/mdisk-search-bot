@@ -13,7 +13,7 @@ async def ForceSub(bot: Client, cmd: Message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="You Are Ban To Use Me. Contact My Owner [ʏᴜᴠʀᴀᴊ](https://t.me/Yuvi_4502).",
+                text="You Are Ban To Use Me. Contact My Owner [ʏᴜᴠʀᴀᴊ](https://t.me/Himanshurathore).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -47,7 +47,7 @@ async def ForceSub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Somthing Went Wrong. Contact My Owner [ʏᴜᴠʀᴀᴊ](https://t.me/Yuvi_4502).",
+            text="Somthing Went Wrong. Contact My Owner [ʏᴜᴠʀᴀᴊ](https://t.me/Himanshurathore0).",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
