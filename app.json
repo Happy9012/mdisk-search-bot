@@ -1,7 +1,7 @@
 {
-    "name": "This is Inline Search Bot by @KGN_OFFICIAL",
+    "name": "This is Inline Search Bot by @Himanshurathore0",
     "logo": "https://telegra.ph/file/5348ee6f73f835d7ed738.jpg", 
-    "description": "This is Inline Channel Messages Search Bot by @KGN_OFFICIAL",
+    "description": "This is Inline Channel Messages Search Bot by @Himanshurathore0",
     "keywords": [
         "telegram",
         "channel",
@@ -9,9 +9,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/KGN-BOTS/mdisk-Search-Bot",
-    "website": "https://telegram.dog/KGN_OFFICIAL",
-    "success_url": "http://t.me/Samantha_Ruth_RoBot",
+    "repository": "https://github.com/Happy9012/mdisk-Search-Bot",
+    "website": "https://telegram.dog/Himanshurathore0",
+    "success_url": "http://t.me/Bunnymdiskbot",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
